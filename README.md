@@ -8,3 +8,6 @@ My projects:
 3.	Balance sheet of online school lessons. The main task was to write sql query for analysing current situation and to create visualization to interpret data. Done inferences: there is a balance sum upward curve that shows the developing trend of school, sales jumps are caused by marketing campaigns.
 
 4.	Cohort analysis for a bank. The main goal was to carry out cohort analysis and find out the highest and the lowest LT and LTV cohorts. 
+
+
+Email: volhakatrechka@gmail.com
