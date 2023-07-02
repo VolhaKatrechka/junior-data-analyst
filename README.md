@@ -1,6 +1,6 @@
 Hi. My name is Volha Katrechka and I'm junior data analyst. Here you can find some my projects performed during education course and some information about my professional skills and relevant experience.
 My hard skills:
-Data analysis tools: Excel , GoogleSheets, SQL  Visualization tools: Miro, Tableau Analytical skills with ability to collect, organise, analyse and disseminate significant amounts of information with attention to detail and accuracy, able to interpret performance data and communicate recommendations
+Data analysis tools: Excel , GoogleSheets, SQL.  Visualization tools: Miro, Tableau. Analytical skills with ability to collect, organise, analyse and disseminate significant amounts of information with attention to detail and accuracy, able to interpret performance data and communicate recommendations
 My projects:
 1.	Unit economics calculator for online school. The aim was to carry out unit economics calculator of online school which can demonstrate current metrics and help to plan metrics for future period. Created plan shows how to increase margin twice by changing discount policy and raising purchase convention and retention.
 
